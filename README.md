@@ -5,4 +5,4 @@ Developed a data-driven solution to predict house prices using R. The project in
 
 **Full report is available upon request**
 
-###  [Data source] (https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction/data).
+###  [Data source](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction/data).
